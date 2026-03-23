@@ -1,10 +1,8 @@
-# Vivado Project Files (The "Gold")
-# We keep these! But we ignore the automatic backups and logs.
+# Automatic backups and logs.
 *.jou
 *.log
 *.str
 
-# Vivado Folders (The "Trash")
 # These contain temporary compilation data and huge bitstreams.
 *.cache/
 *.hw/
@@ -25,5 +23,3 @@ vivado*.backup.log
 *.mem
 *.elf
 *.coe
-# Keep .mem and .coe if you actually created them for ROM/RAM init, 
-# but ignore them if they are generated.
