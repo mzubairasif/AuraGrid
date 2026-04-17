@@ -1,0 +1,19 @@
+# Vivado / Xilinx generated trash
+*.jou
+*.log
+*.str
+*.dir
+*.hw/
+*.ip_user_files/
+*.sim/
+*.cache/
+*.runs/
+.Xil/
+*.bit
+*.bin
+
+# Linux / Editor temp files
+*~
+*.swp
+*.swo
+.vscode/
